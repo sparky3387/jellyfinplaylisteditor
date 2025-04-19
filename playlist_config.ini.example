@@ -1,7 +1,7 @@
 [Paths]
 # Base path to your music library
 # For windows file systems an example is C:\\Music\\Directory
-newpath_location = /mnt/media/newmusic/
+newpath_location = /mnt/media/music/
 # Path to ffprobe executable for audio metadata
 ffprobe_path = /usr/lib/jellyfin-ffmpeg/ffprobe
 # Directory containing your M3U8 playlists
@@ -15,5 +15,5 @@ log_level = INFO
 # Jellyfin server URL (e.g., http://localhost:8096 or https://jellyfin.example.com)
 server_url = http://localhost:8096
 # API key (create one in the Jellyfin dashboard under Admin > API Keys)
-api_key = 75ba700157a04080a1ae309283859eb1 
+api_key = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
